@@ -1,0 +1,207 @@
+[23-May-2017 22:49:24 Asia/Jakarta] PHP Warning:  require_once(config/main.php): failed to open stream: No such file or directory in /home/herwinti/public_html/simice/admin/pages/cetakuser.php on line 18
+[23-May-2017 22:49:24 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'config/main.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/herwinti/public_html/simice/admin/pages/cetakuser.php on line 18
+[23-May-2017 22:56:16 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/herwinti/public_html/simice/admin/pages/cetakuser.php on line 8
+[23-May-2017 22:56:16 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/herwinti/public_html/simice/admin/pages/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/herwinti/public_html/simice/admin/pages/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/herwinti/public_html/simice/admin/pages/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/herwinti/public_html/simice/admin/pages/cetakuser.php(79): FPDF->Output()
+#3 {main}
+  thrown in /home/herwinti/public_html/simice/admin/pages/fpdf/fpdf.php on line 271
+[23-May-2017 23:31:57 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/herwinti/public_html/simice/admin/pages/cetakbpjs.php on line 26
+[23-May-2017 23:31:57 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/herwinti/public_html/simice/admin/pages/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/herwinti/public_html/simice/admin/pages/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/herwinti/public_html/simice/admin/pages/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/herwinti/public_html/simice/admin/pages/cetakbpjs.php(79): FPDF->Output()
+#3 {main}
+  thrown in /home/herwinti/public_html/simice/admin/pages/fpdf/fpdf.php on line 271
+[23-May-2017 23:47:43 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 26
+[23-May-2017 23:47:43 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/herwinti/public_html/simice/admin/pages/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/herwinti/public_html/simice/admin/pages/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/herwinti/public_html/simice/admin/pages/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/herwinti/public_html/simice/admin/pages/cetakpromo.php(75): FPDF->Output()
+#3 {main}
+  thrown in /home/herwinti/public_html/simice/admin/pages/fpdf/fpdf.php on line 271
+[24-May-2017 22:36:10 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/herwinti/public_html/simice/admin/pages/testpdf.php on line 11
+[24-May-2017 22:39:01 Asia/Jakarta] PHP Warning:  require_once(tcpdf_include.php): failed to open stream: No such file or directory in /home/herwinti/public_html/simice/admin/pages/testpdf2.php on line 28
+[24-May-2017 22:39:01 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'tcpdf_include.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/herwinti/public_html/simice/admin/pages/testpdf2.php on line 28
+[24-May-2017 22:40:49 Asia/Jakarta] PHP Warning:  require_once(tcpdf_include.php): failed to open stream: No such file or directory in /home/herwinti/public_html/simice/admin/pages/testpdf2.php on line 28
+[24-May-2017 22:40:49 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'tcpdf_include.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/herwinti/public_html/simice/admin/pages/testpdf2.php on line 28
+[24-May-2017 22:40:51 Asia/Jakarta] PHP Warning:  require_once(config/tcpdf_config_alt.php): failed to open stream: No such file or directory in /home/herwinti/public_html/simice/admin/pages/tcpdf/tcpdf_include.php on line 27
+[24-May-2017 22:40:51 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'config/tcpdf_config_alt.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/herwinti/public_html/simice/admin/pages/tcpdf/tcpdf_include.php on line 27
+[25-May-2017 12:37:28 Asia/Jakarta] PHP Fatal error:  Call to undefined function fetch_data() in /home/herwinti/public_html/simice/admin/pages/cetakuser.php on line 66
+[25-May-2017 13:08:03 Asia/Jakarta] PHP Notice:  Undefined index: cols in /home/herwinti/public_html/simice/admin/pages/tcpdf/tcpdf.php on line 16934
+[25-May-2017 13:08:03 Asia/Jakarta] PHP Notice:  Undefined index: cols in /home/herwinti/public_html/simice/admin/pages/tcpdf/tcpdf.php on line 16934
+[25-May-2017 13:08:03 Asia/Jakarta] PHP Notice:  Undefined index: thead in /home/herwinti/public_html/simice/admin/pages/tcpdf/tcpdf.php on line 16491
+[25-May-2017 13:08:03 Asia/Jakarta] PHP Notice:  Undefined index: rows in /home/herwinti/public_html/simice/admin/pages/tcpdf/tcpdf.php on line 16922
+[25-May-2017 13:08:03 Asia/Jakarta] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/herwinti/public_html/simice/admin/pages/tcpdf/tcpdf.php on line 16924
+[25-May-2017 13:08:03 Asia/Jakarta] PHP Notice:  Undefined index: thead in /home/herwinti/public_html/simice/admin/pages/tcpdf/tcpdf.php on line 16504
+[25-May-2017 13:30:24 Asia/Jakarta] PHP Notice:  Undefined variable: row2 in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 38
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 32
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Notice:  Undefined variable: namam in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 38
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 32
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Notice:  Undefined variable: namam in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 38
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 32
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Notice:  Undefined variable: namam in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 38
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 32
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Notice:  Undefined variable: namam in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 38
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 32
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Notice:  Undefined variable: namam in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 38
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 32
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Notice:  Undefined variable: namam in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 38
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 32
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Notice:  Undefined variable: namam in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 38
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 32
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Notice:  Undefined variable: namam in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 38
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 32
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Notice:  Undefined variable: namam in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 38
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 32
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Notice:  Undefined variable: namam in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 38
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 32
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Notice:  Undefined variable: namam in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 38
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 32
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Notice:  Undefined variable: namam in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 38
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 32
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Notice:  Undefined variable: namam in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 38
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 32
+[25-May-2017 13:31:12 Asia/Jakarta] PHP Notice:  Undefined variable: namam in /home/herwinti/public_html/simice/admin/pages/cetakpromo.php on line 38
+[25-May-2017 14:22:37 Asia/Jakarta] PHP Warning:  getimagesize(https://herwintika.id/simice/files/pic/dspm/10610469_1-6260388246.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/herwinti/public_html/simice/admin/pages/tcpdf/include/tcpdf_images.php on line 171
+[25-May-2017 14:22:37 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(https://herwintika.id/simice/files/pic/dspm/10610469_1-6260388246.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/herwinti/public_html/simice/admin/pages/tcpdf/tcpdf.php on line 7039
+[25-May-2017 14:41:17 Asia/Jakarta] PHP Notice:  Undefined index: id_dspm in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 54
+[25-May-2017 14:41:17 Asia/Jakarta] PHP Notice:  Undefined index: detail_dspm in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 57
+[25-May-2017 14:41:17 Asia/Jakarta] PHP Notice:  Undefined index: dspmpic in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 58
+[25-May-2017 14:41:17 Asia/Jakarta] PHP Notice:  Undefined index: dspmfile in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 59
+[25-May-2017 14:41:17 Asia/Jakarta] PHP Notice:  Undefined index: id_dspm in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 54
+[25-May-2017 14:41:17 Asia/Jakarta] PHP Notice:  Undefined index: detail_dspm in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 57
+[25-May-2017 14:41:17 Asia/Jakarta] PHP Notice:  Undefined index: dspmpic in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 58
+[25-May-2017 14:41:17 Asia/Jakarta] PHP Notice:  Undefined index: dspmfile in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 59
+[25-May-2017 14:41:17 Asia/Jakarta] PHP Notice:  Undefined index: id_dspm in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 54
+[25-May-2017 14:41:17 Asia/Jakarta] PHP Notice:  Undefined index: detail_dspm in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 57
+[25-May-2017 14:41:17 Asia/Jakarta] PHP Notice:  Undefined index: dspmpic in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 58
+[25-May-2017 14:41:17 Asia/Jakarta] PHP Notice:  Undefined index: dspmfile in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 59
+[25-May-2017 14:41:51 Asia/Jakarta] PHP Notice:  Undefined index: detail_dspm in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 57
+[25-May-2017 14:41:51 Asia/Jakarta] PHP Notice:  Undefined index: dspmpic in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 58
+[25-May-2017 14:41:51 Asia/Jakarta] PHP Notice:  Undefined index: dspmfile in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 59
+[25-May-2017 14:41:51 Asia/Jakarta] PHP Notice:  Undefined index: detail_dspm in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 57
+[25-May-2017 14:41:51 Asia/Jakarta] PHP Notice:  Undefined index: dspmpic in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 58
+[25-May-2017 14:41:51 Asia/Jakarta] PHP Notice:  Undefined index: dspmfile in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 59
+[25-May-2017 14:41:51 Asia/Jakarta] PHP Notice:  Undefined index: detail_dspm in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 57
+[25-May-2017 14:41:51 Asia/Jakarta] PHP Notice:  Undefined index: dspmpic in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 58
+[25-May-2017 14:41:51 Asia/Jakarta] PHP Notice:  Undefined index: dspmfile in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 59
+[25-May-2017 14:42:16 Asia/Jakarta] PHP Notice:  Undefined index: dspmpic in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 58
+[25-May-2017 14:42:16 Asia/Jakarta] PHP Notice:  Undefined index: dspmfile in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 59
+[25-May-2017 14:42:16 Asia/Jakarta] PHP Notice:  Undefined index: dspmpic in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 58
+[25-May-2017 14:42:16 Asia/Jakarta] PHP Notice:  Undefined index: dspmfile in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 59
+[25-May-2017 14:42:17 Asia/Jakarta] PHP Notice:  Undefined index: dspmpic in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 58
+[25-May-2017 14:42:17 Asia/Jakarta] PHP Notice:  Undefined index: dspmfile in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 59
+[25-May-2017 14:42:37 Asia/Jakarta] PHP Notice:  Undefined index: dspmpic in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 58
+[25-May-2017 14:42:37 Asia/Jakarta] PHP Notice:  Undefined index: dspmpic in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 58
+[25-May-2017 14:42:37 Asia/Jakarta] PHP Notice:  Undefined index: dspmpic in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 58
+[25-May-2017 14:43:02 Asia/Jakarta] PHP Warning:  imagecreatefrompng(https://herwintika.id/simice/files/pic/danaspm/tax1600-5744740362.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/herwinti/public_html/simice/admin/pages/tcpdf/tcpdf.php on line 7039
+[25-May-2017 14:43:03 Asia/Jakarta] PHP Warning:  getimagesize(https://herwintika.id/simice/files/pic/danaspm/images-8780518048.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/herwinti/public_html/simice/admin/pages/tcpdf/include/tcpdf_images.php on line 171
+[25-May-2017 14:43:03 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(https://herwintika.id/simice/files/pic/danaspm/images-8780518048.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/herwinti/public_html/simice/admin/pages/tcpdf/tcpdf.php on line 7039
+[25-May-2017 14:43:03 Asia/Jakarta] PHP Warning:  getimagesize(https://herwintika.id/simice/files/pic/danaspm/img-201705-5619660741.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/herwinti/public_html/simice/admin/pages/tcpdf/include/tcpdf_images.php on line 171
+[25-May-2017 14:43:03 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(https://herwintika.id/simice/files/pic/danaspm/img-201705-5619660741.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/herwinti/public_html/simice/admin/pages/tcpdf/tcpdf.php on line 7039
+[25-May-2017 14:52:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''</td>  ' (T_ENCAPSED_AND_WHITESPACE) in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 53
+[25-May-2017 14:57:21 Asia/Jakarta] PHP Notice:  Undefined index: dspmpic in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 57
+[25-May-2017 14:57:21 Asia/Jakarta] PHP Notice:  Undefined index: dspmpic in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 57
+[25-May-2017 14:57:21 Asia/Jakarta] PHP Notice:  Undefined index: dspmpic in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 57
+[25-May-2017 15:04:23 Asia/Jakarta] PHP Warning:  imagecreatefrompng(http://herwintika.id/simice/files/pic/bpjs/tax1600-5744740362.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/herwinti/public_html/simice/admin/pages/tcpdf/tcpdf.php on line 7039
+[25-May-2017 15:04:24 Asia/Jakarta] PHP Warning:  getimagesize(http://herwintika.id/simice/files/pic/bpjs/images-8780518048.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/herwinti/public_html/simice/admin/pages/tcpdf/include/tcpdf_images.php on line 171
+[25-May-2017 15:04:24 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(http://herwintika.id/simice/files/pic/bpjs/images-8780518048.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/herwinti/public_html/simice/admin/pages/tcpdf/tcpdf.php on line 7039
+[25-May-2017 15:04:24 Asia/Jakarta] PHP Warning:  getimagesize(http://herwintika.id/simice/files/pic/bpjs/img-201705-5619660741.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/herwinti/public_html/simice/admin/pages/tcpdf/include/tcpdf_images.php on line 171
+[25-May-2017 15:04:24 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(http://herwintika.id/simice/files/pic/bpjs/img-201705-5619660741.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/herwinti/public_html/simice/admin/pages/tcpdf/tcpdf.php on line 7039
+[25-May-2017 15:05:40 Asia/Jakarta] PHP Notice:  Undefined index: dampigpic in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 57
+[25-May-2017 15:05:40 Asia/Jakarta] PHP Notice:  Undefined index: dampigpic in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 57
+[25-May-2017 15:05:40 Asia/Jakarta] PHP Notice:  Undefined index: dampigpic in /home/herwinti/public_html/simice/admin/pages/cetakpendampingan.php on line 57
+[15-Jun-2017 10:53:57 UTC] PHP Warning:  mysql_connect(): Connection timed out in /home/u6980135/public_html/admin/pages/cetakpromo.php on line 11
+[15-Jun-2017 11:12:46 UTC] PHP Warning:  getimagesize(https://herwintika.id/simice/files/pic/promosi/pijaturut-4130263221.jpg): failed to open stream: Connection timed out in /home/u6980135/public_html/admin/pages/tcpdf/include/tcpdf_images.php on line 171
+[15-Jun-2017 11:13:36 UTC] PHP Warning:  getimagesize(https://herwintika.id/simice/files/pic/pengumuman/10610469_1-4044919898.jpg): failed to open stream: Connection timed out in /home/u6980135/public_html/admin/pages/tcpdf/include/tcpdf_images.php on line 171
+[15-Jun-2017 11:13:46 UTC] PHP Warning:  imagecreatefromjpeg(https://herwintika.id/simice/files/pic/promosi/pijaturut-4130263221.jpg): failed to open stream: Connection timed out in /home/u6980135/public_html/admin/pages/tcpdf/tcpdf.php on line 7039
+[15-Jun-2017 11:14:11 UTC] PHP Warning:  getimagesize(https://herwintika.id/simice/files/pic/pengumuman/10610469_1-4044919898.jpg): failed to open stream: Connection timed out in /home/u6980135/public_html/admin/pages/tcpdf/include/tcpdf_images.php on line 171
+[15-Jun-2017 11:14:36 UTC] PHP Warning:  imagecreatefromjpeg(https://herwintika.id/simice/files/pic/pengumuman/10610469_1-4044919898.jpg): failed to open stream: Connection timed out in /home/u6980135/public_html/admin/pages/tcpdf/tcpdf.php on line 7039
+[15-Jun-2017 11:15:11 UTC] PHP Warning:  imagecreatefromjpeg(https://herwintika.id/simice/files/pic/pengumuman/10610469_1-4044919898.jpg): failed to open stream: Connection timed out in /home/u6980135/public_html/admin/pages/tcpdf/tcpdf.php on line 7039
+[15-Jun-2017 11:15:19 UTC] PHP Warning:  getimagesize(https://herwintika.id/simice/files/pic/pengaduan/img-201705-5101599739.jpg): failed to open stream: Connection timed out in /home/u6980135/public_html/admin/pages/tcpdf/include/tcpdf_images.php on line 171
+[15-Jun-2017 11:16:19 UTC] PHP Warning:  imagecreatefromjpeg(https://herwintika.id/simice/files/pic/pengaduan/img-201705-5101599739.jpg): failed to open stream: Connection timed out in /home/u6980135/public_html/admin/pages/tcpdf/tcpdf.php on line 7039
+[20-Jun-2017 03:19:11 UTC] PHP Notice:  Undefined variable: namam in /home/u6980135/public_html/admin/pages/cetakpengaduan.php on line 54
+[20-Jun-2017 03:19:11 UTC] PHP Notice:  Undefined variable: emailm in /home/u6980135/public_html/admin/pages/cetakpengaduan.php on line 54
+[20-Jun-2017 03:19:11 UTC] PHP Notice:  Undefined variable: namam in /home/u6980135/public_html/admin/pages/cetakpengaduan.php on line 54
+[20-Jun-2017 03:19:11 UTC] PHP Notice:  Undefined variable: emailm in /home/u6980135/public_html/admin/pages/cetakpengaduan.php on line 54
+[20-Jun-2017 03:19:38 UTC] PHP Notice:  Undefined variable: namam in /home/u6980135/public_html/admin/pages/cetakpengaduan.php on line 54
+[20-Jun-2017 03:19:38 UTC] PHP Notice:  Undefined variable: emailm in /home/u6980135/public_html/admin/pages/cetakpengaduan.php on line 54
+[20-Jun-2017 03:19:38 UTC] PHP Notice:  Undefined variable: namam in /home/u6980135/public_html/admin/pages/cetakpengaduan.php on line 54
+[20-Jun-2017 03:19:38 UTC] PHP Notice:  Undefined variable: emailm in /home/u6980135/public_html/admin/pages/cetakpengaduan.php on line 54
+[20-Jun-2017 03:20:02 UTC] PHP Notice:  Undefined variable: namam in /home/u6980135/public_html/admin/pages/cetakpengaduan.php on line 54
+[20-Jun-2017 03:20:02 UTC] PHP Notice:  Undefined variable: emailm in /home/u6980135/public_html/admin/pages/cetakpengaduan.php on line 54
+[20-Jun-2017 03:20:02 UTC] PHP Notice:  Undefined variable: namam in /home/u6980135/public_html/admin/pages/cetakpengaduan.php on line 54
+[20-Jun-2017 03:20:02 UTC] PHP Notice:  Undefined variable: emailm in /home/u6980135/public_html/admin/pages/cetakpengaduan.php on line 54
+[20-Jun-2017 07:37:35 UTC] PHP Warning:  getimagesize(http://si-mice.com/simice/files/pic/pengumuman/1496803126-4265629234.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/include/tcpdf_images.php on line 171
+[20-Jun-2017 07:37:35 UTC] PHP Warning:  imagecreatefromjpeg(http://si-mice.com/simice/files/pic/pengumuman/1496803126-4265629234.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/tcpdf.php on line 7039
+[20-Jun-2017 07:37:36 UTC] PHP Warning:  getimagesize(http://si-mice.com/simice/files/pic/pengumuman/1496803126-4265629234.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/include/tcpdf_images.php on line 171
+[20-Jun-2017 07:37:36 UTC] PHP Warning:  imagecreatefromjpeg(http://si-mice.com/simice/files/pic/pengumuman/1496803126-4265629234.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/tcpdf.php on line 7039
+[20-Jun-2017 08:20:58 UTC] PHP Warning:  getimagesize(http://si-mice.com/simice/files/pic/pengumuman/1496803126-4265629234.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/include/tcpdf_images.php on line 171
+[20-Jun-2017 08:20:58 UTC] PHP Warning:  imagecreatefromjpeg(http://si-mice.com/simice/files/pic/pengumuman/1496803126-4265629234.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/tcpdf.php on line 7039
+[20-Jun-2017 08:20:58 UTC] PHP Warning:  imagecreatefrompng(http://si-mice.com/simice/files/pic/pengumuman/panin_seku-4683255995.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/tcpdf.php on line 7039
+[20-Jun-2017 08:21:00 UTC] PHP Warning:  getimagesize(http://si-mice.com/simice/files/pic/pengumuman/1496803126-4265629234.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/include/tcpdf_images.php on line 171
+[20-Jun-2017 08:21:00 UTC] PHP Warning:  imagecreatefromjpeg(http://si-mice.com/simice/files/pic/pengumuman/1496803126-4265629234.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/tcpdf.php on line 7039
+[20-Jun-2017 08:21:01 UTC] PHP Warning:  imagecreatefrompng(http://si-mice.com/simice/files/pic/pengumuman/panin_seku-4683255995.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/tcpdf.php on line 7039
+[20-Jun-2017 09:48:53 UTC] PHP Warning:  getimagesize(http://si-mice.com/simice/files/pic/pengumuman/1496803126-4265629234.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/include/tcpdf_images.php on line 171
+[20-Jun-2017 09:48:54 UTC] PHP Warning:  imagecreatefromjpeg(http://si-mice.com/simice/files/pic/pengumuman/1496803126-4265629234.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/tcpdf.php on line 7039
+[20-Jun-2017 09:48:54 UTC] PHP Warning:  imagecreatefrompng(http://si-mice.com/simice/files/pic/pengumuman/panin_seku-4683255995.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/tcpdf.php on line 7039
+[17-Jul-2017 17:12:29 UTC] PHP Warning:  imagecreatefrompng(http://si-mice.com/simice/files/pic/danaspm/cover-prop-9543543495.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/tcpdf.php on line 7039
+[17-Jul-2017 17:12:29 UTC] PHP Warning:  getimagesize(http://si-mice.com/simice/files/pic/danaspm/1498971631-3510966757.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/include/tcpdf_images.php on line 171
+[17-Jul-2017 17:12:29 UTC] PHP Warning:  imagecreatefromjpeg(http://si-mice.com/simice/files/pic/danaspm/1498971631-3510966757.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/tcpdf.php on line 7039
+[17-Jul-2017 17:12:30 UTC] PHP Warning:  imagecreatefrompng(http://si-mice.com/simice/files/pic/danaspm/cover-prop-9543543495.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/tcpdf.php on line 7039
+[17-Jul-2017 17:12:30 UTC] PHP Warning:  getimagesize(http://si-mice.com/simice/files/pic/danaspm/1498971631-3510966757.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/include/tcpdf_images.php on line 171
+[17-Jul-2017 17:12:30 UTC] PHP Warning:  imagecreatefromjpeg(http://si-mice.com/simice/files/pic/danaspm/1498971631-3510966757.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/tcpdf.php on line 7039
+[17-Jul-2017 17:13:45 UTC] PHP Warning:  imagecreatefrompng(http://si-mice.com/simice/files/pic/danaspm/cover-prop-9543543495.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/tcpdf.php on line 7039
+[17-Jul-2017 17:13:45 UTC] PHP Warning:  getimagesize(http://si-mice.com/simice/files/pic/danaspm/1498971631-3510966757.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/include/tcpdf_images.php on line 171
+[17-Jul-2017 17:13:45 UTC] PHP Warning:  imagecreatefromjpeg(http://si-mice.com/simice/files/pic/danaspm/1498971631-3510966757.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/tcpdf.php on line 7039
+[18-Jul-2017 04:27:57 UTC] PHP Warning:  imagecreatefrompng(http://si-mice.com/simice/files/pic/danaspm/cover-prop-9543543495.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/tcpdf.php on line 7039
+[18-Jul-2017 04:27:57 UTC] PHP Warning:  getimagesize(http://si-mice.com/simice/files/pic/danaspm/1498971631-3510966757.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/include/tcpdf_images.php on line 171
+[18-Jul-2017 04:27:57 UTC] PHP Warning:  imagecreatefromjpeg(http://si-mice.com/simice/files/pic/danaspm/1498971631-3510966757.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/tcpdf.php on line 7039
+[18-Jul-2017 04:27:58 UTC] PHP Warning:  imagecreatefrompng(http://si-mice.com/simice/files/pic/danaspm/cover-prop-9543543495.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/tcpdf.php on line 7039
+[18-Jul-2017 04:27:58 UTC] PHP Warning:  getimagesize(http://si-mice.com/simice/files/pic/danaspm/1498971631-3510966757.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/include/tcpdf_images.php on line 171
+[18-Jul-2017 04:27:58 UTC] PHP Warning:  imagecreatefromjpeg(http://si-mice.com/simice/files/pic/danaspm/1498971631-3510966757.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/u6980135/public_html/admin/pages/tcpdf/tcpdf.php on line 7039

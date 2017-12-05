@@ -1,0 +1,369 @@
+[17-May-2017 14:02:18 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/herwinti/public_html/simice/api/login.php on line 13
+[17-May-2017 14:02:18 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/herwinti/public_html/simice/api/login.php on line 14
+[17-May-2017 15:55:11 Asia/Jakarta] PHP Notice:  Undefined index: ImageFile in /home/herwinti/public_html/simice/api/addpromo.php on line 26
+[17-May-2017 16:26:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '">"' (T_CONSTANT_ENCAPSED_STRING) in /home/herwinti/public_html/simice/api/listpromo.php on line 29
+[17-May-2017 16:57:00 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/herwinti/public_html/simice/api/login.php on line 13
+[17-May-2017 16:57:00 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/herwinti/public_html/simice/api/login.php on line 14
+[17-May-2017 16:57:22 Asia/Jakarta] PHP Notice:  Undefined index: idmember in /home/herwinti/public_html/simice/api/addpromo.php on line 19
+[17-May-2017 16:57:22 Asia/Jakarta] PHP Notice:  Undefined index: promot in /home/herwinti/public_html/simice/api/addpromo.php on line 20
+[17-May-2017 16:57:22 Asia/Jakarta] PHP Notice:  Undefined index: detail in /home/herwinti/public_html/simice/api/addpromo.php on line 21
+[17-May-2017 16:57:22 Asia/Jakarta] PHP Notice:  Undefined index: ImageFile in /home/herwinti/public_html/simice/api/addpromo.php on line 26
+[18-May-2017 15:04:45 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/herwinti/public_html/simice/api/login.php on line 13
+[18-May-2017 15:04:45 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/herwinti/public_html/simice/api/login.php on line 14
+[18-May-2017 17:53:32 Asia/Jakarta] PHP Notice:  Undefined index: file in /home/herwinti/public_html/simice/api/addpromo.php on line 32
+[19-May-2017 14:19:08 Asia/Jakarta] PHP Notice:  Undefined index: idmember in /home/herwinti/public_html/simice/api/damping.php on line 23
+[19-May-2017 14:19:08 Asia/Jakarta] PHP Notice:  Undefined index: tanggal in /home/herwinti/public_html/simice/api/damping.php on line 24
+[19-May-2017 14:19:08 Asia/Jakarta] PHP Notice:  Undefined index: detail in /home/herwinti/public_html/simice/api/damping.php on line 25
+[19-May-2017 14:19:08 Asia/Jakarta] PHP Notice:  Undefined index: ImageFile in /home/herwinti/public_html/simice/api/damping.php on line 32
+[19-May-2017 14:19:08 Asia/Jakarta] PHP Notice:  Undefined index: ImageFile in /home/herwinti/public_html/simice/api/damping.php on line 38
+[19-May-2017 14:19:08 Asia/Jakarta] PHP Notice:  Undefined index: ImageFile in /home/herwinti/public_html/simice/api/damping.php on line 39
+[19-May-2017 14:19:08 Asia/Jakarta] PHP Notice:  Undefined index: ImageFile in /home/herwinti/public_html/simice/api/damping.php on line 44
+[19-May-2017 14:19:18 Asia/Jakarta] PHP Notice:  Undefined index: idmember in /home/herwinti/public_html/simice/api/damping.php on line 23
+[19-May-2017 14:19:18 Asia/Jakarta] PHP Notice:  Undefined index: tanggal in /home/herwinti/public_html/simice/api/damping.php on line 24
+[19-May-2017 14:19:18 Asia/Jakarta] PHP Notice:  Undefined index: detail in /home/herwinti/public_html/simice/api/damping.php on line 25
+[19-May-2017 14:19:18 Asia/Jakarta] PHP Notice:  Undefined index: ImageFile in /home/herwinti/public_html/simice/api/damping.php on line 32
+[19-May-2017 14:19:18 Asia/Jakarta] PHP Notice:  Undefined index: ImageFile in /home/herwinti/public_html/simice/api/damping.php on line 38
+[19-May-2017 14:19:18 Asia/Jakarta] PHP Notice:  Undefined index: ImageFile in /home/herwinti/public_html/simice/api/damping.php on line 39
+[19-May-2017 14:19:18 Asia/Jakarta] PHP Notice:  Undefined index: ImageFile in /home/herwinti/public_html/simice/api/damping.php on line 44
+[19-May-2017 15:53:06 Asia/Jakarta] PHP Warning:  include_once(php/config.php): failed to open stream: No such file or directory in /home/herwinti/public_html/simice/api/api.php on line 5
+[19-May-2017 15:53:06 Asia/Jakarta] PHP Warning:  include_once(): Failed opening 'php/config.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/herwinti/public_html/simice/api/api.php on line 5
+[19-May-2017 15:53:06 Asia/Jakarta] PHP Warning:  include_once(php/chat_realtime.php): failed to open stream: No such file or directory in /home/herwinti/public_html/simice/api/api.php on line 6
+[19-May-2017 15:53:06 Asia/Jakarta] PHP Warning:  include_once(): Failed opening 'php/chat_realtime.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/herwinti/public_html/simice/api/api.php on line 6
+[19-May-2017 15:53:06 Asia/Jakarta] PHP Fatal error:  Class 'Chat_realtime' not found in /home/herwinti/public_html/simice/api/api.php on line 7
+[19-May-2017 16:34:42 Asia/Jakarta] PHP Notice:  Undefined index: idmember in /home/herwinti/public_html/simice/api/bpjs.php on line 23
+[19-May-2017 16:34:42 Asia/Jakarta] PHP Notice:  Undefined index: category in /home/herwinti/public_html/simice/api/bpjs.php on line 24
+[19-May-2017 16:34:42 Asia/Jakarta] PHP Notice:  Undefined index: tanggal in /home/herwinti/public_html/simice/api/bpjs.php on line 25
+[19-May-2017 16:34:42 Asia/Jakarta] PHP Notice:  Undefined index: detail in /home/herwinti/public_html/simice/api/bpjs.php on line 26
+[19-May-2017 16:34:42 Asia/Jakarta] PHP Notice:  Undefined index: lokasi in /home/herwinti/public_html/simice/api/bpjs.php on line 27
+[19-May-2017 16:34:42 Asia/Jakarta] PHP Notice:  Undefined index: ImageFile in /home/herwinti/public_html/simice/api/bpjs.php on line 34
+[19-May-2017 16:34:42 Asia/Jakarta] PHP Notice:  Undefined index: ImageFile in /home/herwinti/public_html/simice/api/bpjs.php on line 40
+[19-May-2017 16:34:42 Asia/Jakarta] PHP Notice:  Undefined index: ImageFile in /home/herwinti/public_html/simice/api/bpjs.php on line 41
+[19-May-2017 16:34:42 Asia/Jakarta] PHP Notice:  Undefined index: ImageFile in /home/herwinti/public_html/simice/api/bpjs.php on line 46
+[19-May-2017 16:34:53 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/herwinti/public_html/simice/api/profiled.php on line 12
+[19-May-2017 16:34:53 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/herwinti/public_html/simice/api/profiled.php on line 17
+[19-May-2017 16:58:51 Asia/Jakarta] PHP Notice:  Undefined index: promopic in /home/herwinti/public_html/simice/api/chats.php on line 22
+[19-May-2017 16:58:51 Asia/Jakarta] PHP Notice:  Undefined index: tittle in /home/herwinti/public_html/simice/api/chats.php on line 24
+[19-May-2017 16:58:51 Asia/Jakarta] PHP Notice:  Undefined index: detail_promosi in /home/herwinti/public_html/simice/api/chats.php on line 29
+[19-May-2017 16:58:51 Asia/Jakarta] PHP Notice:  Undefined index: promopic in /home/herwinti/public_html/simice/api/chats.php on line 22
+[19-May-2017 16:58:51 Asia/Jakarta] PHP Notice:  Undefined index: tittle in /home/herwinti/public_html/simice/api/chats.php on line 24
+[19-May-2017 16:58:51 Asia/Jakarta] PHP Notice:  Undefined index: detail_promosi in /home/herwinti/public_html/simice/api/chats.php on line 29
+[19-May-2017 16:58:51 Asia/Jakarta] PHP Notice:  Undefined index: promopic in /home/herwinti/public_html/simice/api/chats.php on line 22
+[19-May-2017 16:58:51 Asia/Jakarta] PHP Notice:  Undefined index: tittle in /home/herwinti/public_html/simice/api/chats.php on line 24
+[19-May-2017 16:58:51 Asia/Jakarta] PHP Notice:  Undefined index: detail_promosi in /home/herwinti/public_html/simice/api/chats.php on line 29
+[19-May-2017 16:58:51 Asia/Jakarta] PHP Notice:  Undefined index: promopic in /home/herwinti/public_html/simice/api/chats.php on line 22
+[19-May-2017 16:58:51 Asia/Jakarta] PHP Notice:  Undefined index: tittle in /home/herwinti/public_html/simice/api/chats.php on line 24
+[19-May-2017 16:58:51 Asia/Jakarta] PHP Notice:  Undefined index: detail_promosi in /home/herwinti/public_html/simice/api/chats.php on line 29
+[19-May-2017 17:01:52 Asia/Jakarta] PHP Notice:  Undefined index: promopic in /home/herwinti/public_html/simice/api/chats.php on line 22
+[19-May-2017 17:01:52 Asia/Jakarta] PHP Notice:  Undefined index: tittle in /home/herwinti/public_html/simice/api/chats.php on line 24
+[19-May-2017 17:01:52 Asia/Jakarta] PHP Notice:  Undefined index: detail_promosi in /home/herwinti/public_html/simice/api/chats.php on line 29
+[19-May-2017 17:01:52 Asia/Jakarta] PHP Notice:  Undefined index: promopic in /home/herwinti/public_html/simice/api/chats.php on line 22
+[19-May-2017 17:01:52 Asia/Jakarta] PHP Notice:  Undefined index: tittle in /home/herwinti/public_html/simice/api/chats.php on line 24
+[19-May-2017 17:01:52 Asia/Jakarta] PHP Notice:  Undefined index: detail_promosi in /home/herwinti/public_html/simice/api/chats.php on line 29
+[19-May-2017 17:01:52 Asia/Jakarta] PHP Notice:  Undefined index: promopic in /home/herwinti/public_html/simice/api/chats.php on line 22
+[19-May-2017 17:01:52 Asia/Jakarta] PHP Notice:  Undefined index: tittle in /home/herwinti/public_html/simice/api/chats.php on line 24
+[19-May-2017 17:01:52 Asia/Jakarta] PHP Notice:  Undefined index: detail_promosi in /home/herwinti/public_html/simice/api/chats.php on line 29
+[19-May-2017 17:01:52 Asia/Jakarta] PHP Notice:  Undefined index: promopic in /home/herwinti/public_html/simice/api/chats.php on line 22
+[19-May-2017 17:01:52 Asia/Jakarta] PHP Notice:  Undefined index: tittle in /home/herwinti/public_html/simice/api/chats.php on line 24
+[19-May-2017 17:01:52 Asia/Jakarta] PHP Notice:  Undefined index: detail_promosi in /home/herwinti/public_html/simice/api/chats.php on line 29
+[19-May-2017 17:04:08 Asia/Jakarta] PHP Notice:  Undefined index: promopic in /home/herwinti/public_html/simice/api/chats.php on line 22
+[19-May-2017 17:04:08 Asia/Jakarta] PHP Notice:  Undefined index: tittle in /home/herwinti/public_html/simice/api/chats.php on line 24
+[19-May-2017 17:04:08 Asia/Jakarta] PHP Notice:  Undefined index: detail_promosi in /home/herwinti/public_html/simice/api/chats.php on line 29
+[19-May-2017 17:04:08 Asia/Jakarta] PHP Notice:  Undefined index: promopic in /home/herwinti/public_html/simice/api/chats.php on line 22
+[19-May-2017 17:04:08 Asia/Jakarta] PHP Notice:  Undefined index: tittle in /home/herwinti/public_html/simice/api/chats.php on line 24
+[19-May-2017 17:04:08 Asia/Jakarta] PHP Notice:  Undefined index: detail_promosi in /home/herwinti/public_html/simice/api/chats.php on line 29
+[19-May-2017 17:04:08 Asia/Jakarta] PHP Notice:  Undefined index: promopic in /home/herwinti/public_html/simice/api/chats.php on line 22
+[19-May-2017 17:04:08 Asia/Jakarta] PHP Notice:  Undefined index: tittle in /home/herwinti/public_html/simice/api/chats.php on line 24
+[19-May-2017 17:04:08 Asia/Jakarta] PHP Notice:  Undefined index: detail_promosi in /home/herwinti/public_html/simice/api/chats.php on line 29
+[19-May-2017 17:04:08 Asia/Jakarta] PHP Notice:  Undefined index: promopic in /home/herwinti/public_html/simice/api/chats.php on line 22
+[19-May-2017 17:04:08 Asia/Jakarta] PHP Notice:  Undefined index: tittle in /home/herwinti/public_html/simice/api/chats.php on line 24
+[19-May-2017 17:04:08 Asia/Jakarta] PHP Notice:  Undefined index: detail_promosi in /home/herwinti/public_html/simice/api/chats.php on line 29
+[19-May-2017 17:07:41 Asia/Jakarta] PHP Notice:  Undefined index: promopic in /home/herwinti/public_html/simice/api/chats.php on line 22
+[19-May-2017 17:07:41 Asia/Jakarta] PHP Notice:  Undefined index: tittle in /home/herwinti/public_html/simice/api/chats.php on line 24
+[19-May-2017 17:07:41 Asia/Jakarta] PHP Notice:  Undefined index: detail_promosi in /home/herwinti/public_html/simice/api/chats.php on line 29
+[19-May-2017 17:07:41 Asia/Jakarta] PHP Notice:  Undefined index: promopic in /home/herwinti/public_html/simice/api/chats.php on line 22
+[19-May-2017 17:07:41 Asia/Jakarta] PHP Notice:  Undefined index: tittle in /home/herwinti/public_html/simice/api/chats.php on line 24
+[19-May-2017 17:07:41 Asia/Jakarta] PHP Notice:  Undefined index: detail_promosi in /home/herwinti/public_html/simice/api/chats.php on line 29
+[19-May-2017 17:07:41 Asia/Jakarta] PHP Notice:  Undefined index: promopic in /home/herwinti/public_html/simice/api/chats.php on line 22
+[19-May-2017 17:07:41 Asia/Jakarta] PHP Notice:  Undefined index: tittle in /home/herwinti/public_html/simice/api/chats.php on line 24
+[19-May-2017 17:07:41 Asia/Jakarta] PHP Notice:  Undefined index: detail_promosi in /home/herwinti/public_html/simice/api/chats.php on line 29
+[19-May-2017 17:07:41 Asia/Jakarta] PHP Notice:  Undefined index: promopic in /home/herwinti/public_html/simice/api/chats.php on line 22
+[19-May-2017 17:07:41 Asia/Jakarta] PHP Notice:  Undefined index: tittle in /home/herwinti/public_html/simice/api/chats.php on line 24
+[19-May-2017 17:07:41 Asia/Jakarta] PHP Notice:  Undefined index: detail_promosi in /home/herwinti/public_html/simice/api/chats.php on line 29
+[19-May-2017 17:15:04 Asia/Jakarta] PHP Notice:  Use of undefined constant pengirim - assumed 'pengirim' in /home/herwinti/public_html/simice/api/chats.php on line 20
+[19-May-2017 17:15:04 Asia/Jakarta] PHP Notice:  Use of undefined constant pengirim - assumed 'pengirim' in /home/herwinti/public_html/simice/api/chats.php on line 20
+[19-May-2017 17:15:04 Asia/Jakarta] PHP Notice:  Use of undefined constant pengirim - assumed 'pengirim' in /home/herwinti/public_html/simice/api/chats.php on line 20
+[19-May-2017 17:15:04 Asia/Jakarta] PHP Notice:  Use of undefined constant pengirim - assumed 'pengirim' in /home/herwinti/public_html/simice/api/chats.php on line 20
+[19-May-2017 17:15:50 Asia/Jakarta] PHP Notice:  Use of undefined constant pengirim - assumed 'pengirim' in /home/herwinti/public_html/simice/api/chats.php on line 20
+[19-May-2017 17:15:50 Asia/Jakarta] PHP Notice:  Use of undefined constant pengirim - assumed 'pengirim' in /home/herwinti/public_html/simice/api/chats.php on line 20
+[19-May-2017 17:15:50 Asia/Jakarta] PHP Notice:  Use of undefined constant pengirim - assumed 'pengirim' in /home/herwinti/public_html/simice/api/chats.php on line 20
+[19-May-2017 17:15:50 Asia/Jakarta] PHP Notice:  Use of undefined constant pengirim - assumed 'pengirim' in /home/herwinti/public_html/simice/api/chats.php on line 20
+[19-May-2017 17:17:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/herwinti/public_html/simice/api/chats.php on line 26
+[20-May-2017 01:05:31 Asia/Jakarta] PHP Warning:  move_uploaded_file(../files/doc/danaspm/cv-fauzan--7293648561.docx): failed to open stream: No such file or directory in /home/herwinti/public_html/simice/api/danaspm.php on line 44
+[20-May-2017 01:05:31 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjOH81X' to '../files/doc/danaspm/cv-fauzan--7293648561.docx' in /home/herwinti/public_html/simice/api/danaspm.php on line 44
+[20-May-2017 01:10:17 Asia/Jakarta] PHP Notice:  Undefined index: ImageFile in /home/herwinti/public_html/simice/api/bpjs.php on line 32
+[20-May-2017 06:33:06 Asia/Jakarta] PHP Warning:  mysql_connect(): Unknown MySQL server host 'herwintika.id' (-2) in /home/herwinti/public_html/simice/api/listpromo_b.php on line 8
+[21-May-2017 12:14:01 Asia/Jakarta] PHP Warning:  mysql_connect(): Too many connections in /home/herwinti/public_html/simice/api/listpengumuman.php on line 8
+[21-May-2017 12:15:43 Asia/Jakarta] PHP Warning:  mysql_connect(): Too many connections in /home/herwinti/public_html/simice/api/listpengumuman_b.php on line 8
+[21-May-2017 12:24:43 Asia/Jakarta] PHP Warning:  mysql_connect(): Too many connections in /home/herwinti/public_html/simice/api/listpromo.php on line 8
+[21-May-2017 16:09:40 UTC] PHP Notice:  Undefined variable: server in /home/u6980135/public_html/simice/api/damping.php on line 11
+[21-May-2017 16:12:45 UTC] PHP Notice:  Undefined variable: server in /home/u6980135/public_html/simice/api/danaspm.php on line 11
+[22-May-2017 16:31:18 UTC] PHP Notice:  Undefined index: pass in /home/u6980135/public_html/simice/api/login.php on line 14
+[22-May-2017 16:42:00 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/u6980135/public_html/simice/api/chats.php on line 18
+[22-May-2017 16:47:59 UTC] PHP Notice:  Undefined index: idmember in /home/u6980135/public_html/simice/api/sendmsg.php on line 18
+[22-May-2017 16:47:59 UTC] PHP Notice:  Undefined index: sms in /home/u6980135/public_html/simice/api/sendmsg.php on line 19
+[22-May-2017 16:49:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/u6980135/public_html/simice/api/chats.php on line 18
+[25-May-2017 19:42:44 UTC] PHP Notice:  Undefined index: idmember in /home/u6980135/public_html/simice/api/sendmsg.php on line 18
+[25-May-2017 19:42:44 UTC] PHP Notice:  Undefined index: sms in /home/u6980135/public_html/simice/api/sendmsg.php on line 19
+[25-May-2017 19:45:50 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/u6980135/public_html/simice/api/chats.php on line 18
+[26-May-2017 07:30:27 UTC] PHP Notice:  Undefined index: idmember in /home/u6980135/public_html/simice/api/aduin.php on line 18
+[26-May-2017 07:30:27 UTC] PHP Notice:  Undefined index: category in /home/u6980135/public_html/simice/api/aduin.php on line 19
+[26-May-2017 07:30:27 UTC] PHP Notice:  Undefined index: jenis in /home/u6980135/public_html/simice/api/aduin.php on line 20
+[26-May-2017 07:30:27 UTC] PHP Notice:  Undefined index: tanggal in /home/u6980135/public_html/simice/api/aduin.php on line 21
+[26-May-2017 07:30:27 UTC] PHP Notice:  Undefined index: detail in /home/u6980135/public_html/simice/api/aduin.php on line 22
+[26-May-2017 07:30:27 UTC] PHP Notice:  Undefined index: lokasi in /home/u6980135/public_html/simice/api/aduin.php on line 23
+[26-May-2017 07:30:27 UTC] PHP Notice:  Undefined index: ImageFile in /home/u6980135/public_html/simice/api/aduin.php on line 28
+[26-May-2017 07:34:09 UTC] PHP Notice:  Undefined variable: server in /home/u6980135/public_html/simice/api/damping.php on line 11
+[26-May-2017 07:34:09 UTC] PHP Notice:  Undefined index: idmember in /home/u6980135/public_html/simice/api/damping.php on line 18
+[26-May-2017 07:34:09 UTC] PHP Notice:  Undefined index: tanggal in /home/u6980135/public_html/simice/api/damping.php on line 19
+[26-May-2017 07:34:09 UTC] PHP Notice:  Undefined index: detail in /home/u6980135/public_html/simice/api/damping.php on line 20
+[26-May-2017 07:34:09 UTC] PHP Notice:  Undefined index: ImageFile in /home/u6980135/public_html/simice/api/damping.php on line 25
+[26-May-2017 07:41:43 UTC] PHP Notice:  Undefined index: idmember in /home/u6980135/public_html/simice/api/addpromo.php on line 18
+[26-May-2017 07:41:43 UTC] PHP Notice:  Undefined index: promot in /home/u6980135/public_html/simice/api/addpromo.php on line 19
+[26-May-2017 07:41:43 UTC] PHP Notice:  Undefined index: detail in /home/u6980135/public_html/simice/api/addpromo.php on line 20
+[26-May-2017 07:41:43 UTC] PHP Notice:  Undefined index: ImageFile in /home/u6980135/public_html/simice/api/addpromo.php on line 25
+[26-May-2017 09:21:25 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[26-May-2017 10:43:10 UTC] PHP Notice:  Undefined index: npass in /home/u6980135/public_html/simice/api/updpass.php on line 14
+[26-May-2017 11:51:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/u6980135/public_html/simice/api/dpromo_b.php on line 17
+[29-May-2017 09:42:08 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[29-May-2017 09:44:52 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[30-May-2017 04:04:30 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[31-May-2017 05:03:47 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[31-May-2017 07:42:44 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[01-Jun-2017 06:52:15 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[01-Jun-2017 10:24:56 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[01-Jun-2017 21:26:30 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[05-Jun-2017 05:00:58 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[05-Jun-2017 11:23:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/u6980135/public_html/simice/api/dpengumuman_b.php on line 17
+[06-Jun-2017 08:51:08 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[06-Jun-2017 08:52:45 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[06-Jun-2017 09:23:38 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo_b.php on line 8
+[14-Jun-2017 07:49:24 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[14-Jun-2017 07:51:36 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[14-Jun-2017 14:27:21 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[14-Jun-2017 14:27:21 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[14-Jun-2017 14:27:41 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[14-Jun-2017 14:28:01 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[14-Jun-2017 14:28:06 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[14-Jun-2017 14:28:10 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[14-Jun-2017 14:28:12 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[14-Jun-2017 14:28:12 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[14-Jun-2017 14:28:13 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[14-Jun-2017 14:28:21 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[14-Jun-2017 14:28:26 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[14-Jun-2017 14:28:30 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[14-Jun-2017 14:28:32 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[14-Jun-2017 14:28:33 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[14-Jun-2017 14:28:33 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[14-Jun-2017 14:28:41 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[14-Jun-2017 14:28:46 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[14-Jun-2017 14:28:50 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[14-Jun-2017 14:28:52 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[14-Jun-2017 14:28:59 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[14-Jun-2017 14:28:59 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[14-Jun-2017 14:31:51 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[14-Jun-2017 14:31:52 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[14-Jun-2017 14:32:19 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[14-Jun-2017 14:32:19 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[14-Jun-2017 18:01:07 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[14-Jun-2017 18:01:07 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 02:58:32 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/dpromo_b.php on line 8
+[15-Jun-2017 03:29:30 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 03:29:30 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 03:29:48 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman_b.php on line 8
+[15-Jun-2017 03:31:15 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 03:31:16 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 04:17:20 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 04:17:20 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 04:17:53 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 04:18:00 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 04:18:06 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 04:18:06 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 04:18:06 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 04:18:06 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 04:18:06 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 04:18:06 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 04:18:06 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 04:18:06 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 04:18:06 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 04:18:06 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 04:18:06 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 04:18:06 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 04:18:23 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 04:18:23 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 04:18:49 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 04:40:48 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 04:40:48 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 04:40:53 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 07:18:27 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 07:18:27 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 07:23:35 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 07:23:35 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 07:35:33 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 07:35:35 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 07:35:39 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 07:36:18 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 07:36:18 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 07:43:30 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 07:43:30 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 07:43:34 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 07:43:35 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 07:43:49 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 07:43:49 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:04:04 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:04:04 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:04:04 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 08:04:04 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 08:04:32 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 08:04:32 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:05:10 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 08:05:10 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:05:33 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:05:33 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 08:19:44 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 08:19:44 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:20:17 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:24:17 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:24:19 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:24:28 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:24:30 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:24:31 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:24:42 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:24:45 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:24:45 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:24:47 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:24:47 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:25:18 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:25:27 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:25:28 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:25:59 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:26:01 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:26:16 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:27:33 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:58:57 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 08:58:57 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 08:59:35 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 08:59:37 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 08:59:40 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 08:59:40 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 08:59:40 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 08:59:40 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 08:59:41 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 08:59:41 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 08:59:42 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 08:59:53 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 08:59:54 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 08:59:54 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 08:59:54 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 08:59:55 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 09:00:03 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 09:06:07 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 09:06:08 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 09:06:21 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 09:06:21 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 09:10:30 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/login.php on line 9
+[15-Jun-2017 09:10:34 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 09:10:34 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 09:11:26 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 09:11:26 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 09:15:09 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpengumuman.php on line 8
+[15-Jun-2017 09:15:09 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 09:16:01 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 09:16:33 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 09:33:15 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 09:33:19 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 09:33:21 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 09:33:32 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[15-Jun-2017 09:33:37 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'153.92.8.53' (using password: YES) in /home/u6980135/public_html/simice/api/listpromo.php on line 8
+[27-Jun-2017 16:12:42 UTC] PHP Notice:  Undefined index: pass in /home/u6980135/public_html/simice/api/login.php on line 14
+[27-Jun-2017 18:04:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/u6980135/public_html/simice/api/dpromo_b.php on line 17
+[10-Jul-2017 06:40:12 UTC] PHP Notice:  Undefined variable: server in /home/u6980135/public_html/simice/api/danaspm.php on line 11
+[10-Jul-2017 07:11:45 UTC] PHP Notice:  Undefined variable: server in /home/u6980135/public_html/simice/api/damping.php on line 11
+[10-Jul-2017 07:12:53 UTC] PHP Notice:  Undefined variable: server in /home/u6980135/public_html/simice/api/damping.php on line 11
+[10-Jul-2017 07:12:54 UTC] PHP Notice:  Undefined variable: server in /home/u6980135/public_html/simice/api/damping.php on line 11
+[10-Jul-2017 08:14:13 UTC] PHP Notice:  Undefined variable: server in /home/u6980135/public_html/simice/api/danaspm.php on line 11
+[13-Jul-2017 08:10:10 UTC] PHP Notice:  Undefined variable: server in /home/u6980135/public_html/simice/api/danaspm.php on line 11
+[01-Sep-2017 08:34:24 UTC] PHP Notice:  Undefined index: pass in /home/u6980135/public_html/simice/api/login.php on line 14
+[02-Sep-2017 00:33:55 UTC] PHP Notice:  Undefined index: pass in /home/u6980135/public_html/simice/api/login.php on line 14
+[04-Sep-2017 08:02:07 UTC] PHP Notice:  Undefined index: pass in /home/u6980135/public_html/simice/api/login.php on line 14
+[14-Oct-2017 16:25:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/u6980135/public_html/simice/api/chats.php on line 18
+[21-Oct-2017 12:58:44 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'u6980135_simice'@'localhost' (using password: YES) in /home/herwinti/public_html/sapahaji/api/login.php on line 9
+[21-Oct-2017 13:42:27 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/herwinti/public_html/sapahaji/api/login.php on line 13
+[21-Oct-2017 13:42:27 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/herwinti/public_html/sapahaji/api/login.php on line 14
+[21-Oct-2017 13:42:27 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/herwinti/public_html/sapahaji/api/login.php on line 22
+[21-Oct-2017 20:31:04 Asia/Jakarta] PHP Notice:  Undefined variable: server in /home/herwinti/public_html/sapahaji/api/register.php on line 10
+[21-Oct-2017 20:31:04 Asia/Jakarta] PHP Notice:  Undefined variable: database in /home/herwinti/public_html/sapahaji/api/register.php on line 11
+[21-Oct-2017 20:43:07 Asia/Jakarta] PHP Notice:  Undefined index: firstname in /home/herwinti/public_html/sapahaji/api/register.php on line 13
+[21-Oct-2017 20:43:07 Asia/Jakarta] PHP Notice:  Undefined index: lastname in /home/herwinti/public_html/sapahaji/api/register.php on line 14
+[21-Oct-2017 20:43:07 Asia/Jakarta] PHP Notice:  Undefined index: address in /home/herwinti/public_html/sapahaji/api/register.php on line 15
+[21-Oct-2017 20:43:07 Asia/Jakarta] PHP Notice:  Undefined index: contact in /home/herwinti/public_html/sapahaji/api/register.php on line 16
+[21-Oct-2017 20:43:07 Asia/Jakarta] PHP Notice:  Undefined index: sexs in /home/herwinti/public_html/sapahaji/api/register.php on line 18
+[21-Oct-2017 21:31:05 Asia/Jakarta] PHP Notice:  Undefined index: ImageFileprofile in /home/herwinti/public_html/sapahaji/api/update_data_user.php on line 30
+[21-Oct-2017 21:31:05 Asia/Jakarta] PHP Notice:  Undefined index: ImageFilehome in /home/herwinti/public_html/sapahaji/api/update_data_user.php on line 44
+[21-Oct-2017 22:23:34 Asia/Jakarta] PHP Notice:  Undefined variable: NewImageName in /home/herwinti/public_html/sapahaji/api/add_timeline.php on line 45
+[21-Oct-2017 23:13:38 Asia/Jakarta] PHP Notice:  Undefined variable: iduser in /home/herwinti/public_html/sapahaji/api/update_timeline.php on line 30
+[21-Oct-2017 23:37:13 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/herwinti/public_html/sapahaji/api/update_timeline.php on line 13
+[21-Oct-2017 23:37:13 Asia/Jakarta] PHP Notice:  Undefined index: note in /home/herwinti/public_html/sapahaji/api/update_timeline.php on line 15
+[22-Oct-2017 12:52:38 Asia/Jakarta] PHP Fatal error:  Call to undefined function append() in /home/herwinti/public_html/sapahaji/api/getlistpostphoto.php on line 29
+[22-Oct-2017 18:21:31 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/herwinti/public_html/sapahaji/api/getlistpost.php on line 41
+[22-Oct-2017 18:22:24 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/herwinti/public_html/sapahaji/api/getlistpost.php on line 42
+[22-Oct-2017 18:22:56 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/herwinti/public_html/sapahaji/api/getlistpost.php on line 42
+[22-Oct-2017 19:52:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/herwinti/public_html/sapahaji/api/getlistpost.php on line 46
+[22-Oct-2017 20:34:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/herwinti/public_html/sapahaji/api/getlistcomment.php on line 21
+[28-Oct-2017 20:22:05 Asia/Jakarta] PHP Warning:  imagettftext(): Could not find/open font in /home/herwinti/public_html/sapahaji/api/newCaptcha.php on line 17
+[28-Oct-2017 20:22:09 Asia/Jakarta] PHP Warning:  imagettftext(): Could not find/open font in /home/herwinti/public_html/sapahaji/api/newCaptcha.php on line 17
+[28-Oct-2017 20:23:52 Asia/Jakarta] PHP Warning:  imagettftext(): Could not find/open font in /home/herwinti/public_html/sapahaji/api/newCaptcha.php on line 17
+[28-Oct-2017 21:07:35 Asia/Jakarta] PHP Notice:  Undefined variable: pass in /home/herwinti/public_html/sapahaji/api/register.php on line 21
+[28-Oct-2017 21:07:45 Asia/Jakarta] PHP Notice:  Undefined variable: pass in /home/herwinti/public_html/sapahaji/api/register.php on line 21
+[28-Oct-2017 21:07:47 Asia/Jakarta] PHP Notice:  Undefined variable: pass in /home/herwinti/public_html/sapahaji/api/register.php on line 21
+[28-Oct-2017 21:07:48 Asia/Jakarta] PHP Notice:  Undefined variable: pass in /home/herwinti/public_html/sapahaji/api/register.php on line 21
+[28-Oct-2017 21:07:50 Asia/Jakarta] PHP Notice:  Undefined variable: pass in /home/herwinti/public_html/sapahaji/api/register.php on line 21
+[28-Oct-2017 21:07:51 Asia/Jakarta] PHP Notice:  Undefined variable: pass in /home/herwinti/public_html/sapahaji/api/register.php on line 21
+[28-Oct-2017 21:07:54 Asia/Jakarta] PHP Notice:  Undefined variable: pass in /home/herwinti/public_html/sapahaji/api/register.php on line 21
+[28-Oct-2017 21:07:58 Asia/Jakarta] PHP Notice:  Undefined variable: pass in /home/herwinti/public_html/sapahaji/api/register.php on line 21
+[28-Oct-2017 21:08:04 Asia/Jakarta] PHP Notice:  Undefined variable: pass in /home/herwinti/public_html/sapahaji/api/register.php on line 21
+[28-Oct-2017 21:08:12 Asia/Jakarta] PHP Notice:  Undefined variable: pass in /home/herwinti/public_html/sapahaji/api/register.php on line 21
+[28-Oct-2017 21:12:06 Asia/Jakarta] PHP Notice:  Undefined variable: pass in /home/herwinti/public_html/sapahaji/api/register.php on line 21
+[28-Oct-2017 21:12:06 Asia/Jakarta] PHP Notice:  Undefined variable: pass in /home/herwinti/public_html/sapahaji/api/register.php on line 21
+[28-Oct-2017 21:12:08 Asia/Jakarta] PHP Notice:  Undefined variable: pass in /home/herwinti/public_html/sapahaji/api/register.php on line 21
+[28-Oct-2017 21:12:08 Asia/Jakarta] PHP Notice:  Undefined variable: pass in /home/herwinti/public_html/sapahaji/api/register.php on line 21
+[28-Oct-2017 21:12:09 Asia/Jakarta] PHP Notice:  Undefined variable: pass in /home/herwinti/public_html/sapahaji/api/register.php on line 21
+[28-Oct-2017 21:12:09 Asia/Jakarta] PHP Notice:  Undefined variable: pass in /home/herwinti/public_html/sapahaji/api/register.php on line 21
+[28-Oct-2017 21:20:01 Asia/Jakarta] PHP Notice:  Undefined variable: pass in /home/herwinti/public_html/sapahaji/api/register.php on line 21
+[28-Oct-2017 21:23:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '"' in /home/herwinti/public_html/sapahaji/api/register.php on line 37
+[28-Oct-2017 22:27:41 Asia/Jakarta] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'herwintika.id' (111 &quot;Connection refused&quot;) in /home/herwinti/public_html/sapahaji/api/getlistpost.php on line 8
+[28-Oct-2017 22:29:26 Asia/Jakarta] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'herwintika.id' (111 &quot;Connection refused&quot;) in /home/herwinti/public_html/sapahaji/api/getlistpost.php on line 8
+[28-Oct-2017 22:29:38 Asia/Jakarta] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'herwintika.id' (111 &quot;Connection refused&quot;) in /home/herwinti/public_html/sapahaji/api/getlistpost.php on line 8
+[28-Oct-2017 22:30:12 Asia/Jakarta] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'herwintika.id' (111 &quot;Connection refused&quot;) in /home/herwinti/public_html/sapahaji/api/getlistpost.php on line 8
+[28-Oct-2017 22:31:00 Asia/Jakarta] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'herwintika.id' (111 &quot;Connection refused&quot;) in /home/herwinti/public_html/sapahaji/api/getlistpost.php on line 8
+[28-Oct-2017 22:31:28 Asia/Jakarta] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'herwintika.id' (111 &quot;Connection refused&quot;) in /home/herwinti/public_html/sapahaji/api/getlistpost.php on line 8
+[28-Oct-2017 22:31:32 Asia/Jakarta] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'herwintika.id' (111 &quot;Connection refused&quot;) in /home/herwinti/public_html/sapahaji/api/getlistpost.php on line 8
+[28-Oct-2017 22:32:00 Asia/Jakarta] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'herwintika.id' (111 &quot;Connection refused&quot;) in /home/herwinti/public_html/sapahaji/api/getlistpost.php on line 8
+[28-Oct-2017 22:32:16 Asia/Jakarta] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'herwintika.id' (111 &quot;Connection refused&quot;) in /home/herwinti/public_html/sapahaji/api/getlistpost.php on line 8
+[28-Oct-2017 22:35:29 Asia/Jakarta] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'herwintika.id' (111 &quot;Connection refused&quot;) in /home/herwinti/public_html/sapahaji/api/getlistpost.php on line 8
+[29-Oct-2017 08:44:22 Asia/Jakarta] PHP Warning:  array_merge(): Argument #3 is not an array in /home/herwinti/public_html/sapahaji/api/getlistpost.php on line 73
+[29-Oct-2017 08:44:22 Asia/Jakarta] PHP Warning:  array_merge(): Argument #3 is not an array in /home/herwinti/public_html/sapahaji/api/getlistpost.php on line 73
+[29-Oct-2017 08:44:22 Asia/Jakarta] PHP Warning:  array_merge(): Argument #3 is not an array in /home/herwinti/public_html/sapahaji/api/getlistpost.php on line 73
+[29-Oct-2017 08:44:22 Asia/Jakarta] PHP Warning:  array_merge(): Argument #3 is not an array in /home/herwinti/public_html/sapahaji/api/getlistpost.php on line 73
+[29-Oct-2017 09:20:55 Asia/Jakarta] PHP Notice:  Undefined index: typepost in /home/herwinti/public_html/sapahaji/api/getlistpost.php on line 13
+[29-Oct-2017 09:20:55 Asia/Jakarta] PHP Notice:  Undefined index: typepost in /home/herwinti/public_html/sapahaji/api/getlistpost.php on line 13
+[29-Oct-2017 10:17:31 Asia/Jakarta] PHP Notice:  Undefined index: idc in /home/herwinti/public_html/sapahaji/api/getlistnotifcomment.php on line 12
+[04-Nov-2017 20:23:34 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/herwinti/public_html/sapahaji/api/registersosmedgplus.php on line 19
+[04-Nov-2017 20:31:30 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/herwinti/public_html/sapahaji/api/registersosmedgplus.php on line 19
+[04-Nov-2017 20:36:29 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/herwinti/public_html/sapahaji/api/registersosmedgplus.php on line 19
+[04-Nov-2017 21:02:41 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/herwinti/public_html/sapahaji/api/registersosmedgplus.php on line 19
+[04-Nov-2017 21:33:45 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/herwinti/public_html/sapahaji/api/registersosmedgplus.php on line 19
+[04-Nov-2017 22:12:33 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/herwinti/public_html/sapahaji/api/registersosmedgplus.php on line 19
+[05-Nov-2017 20:11:02 Asia/Jakarta] PHP Warning:  mysql_connect(): Unknown MySQL server host 'herwintika.id' (-2) in /home/herwinti/public_html/sapahaji/api/login.php on line 9
+[06-Nov-2017 20:29:49 Asia/Jakarta] PHP Notice:  Undefined index: captcha in /home/herwinti/public_html/sapahaji/api/getCaptcha.php on line 6
+[06-Nov-2017 20:30:45 Asia/Jakarta] PHP Notice:  Undefined index: captcha in /home/herwinti/public_html/sapahaji/api/getCaptcha.php on line 8
+[07-Nov-2017 12:00:12 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/herwinti/public_html/sapahaji/api/registersosmedgplus.php on line 19

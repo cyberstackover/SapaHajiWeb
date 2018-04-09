@@ -1,2 +1,2 @@
 # SapaHajiWeb
-SapaHaji Web and Rest API Platform opensource for Hajj and Umroh.
+SapaHaji Web and Rest API Platform opensource for Haji and Umroh.
